@@ -1,0 +1,16 @@
+    
+    PARA AGREGAR PRODUCTO:
+
+      {   "producto": "nuevoProducto",
+        "descripcion": "Agregando nuevo producto\r\n",
+        "precio": 10000,
+        "id_categoria": 2
+        }
+
+    PARA ACTUALIZAR PRODUCTO:
+    {
+    "producto": "ProductoEditado",
+    "descripcion": "nuevo producto editado\r\n",
+    "precio": 7000,
+    "id_producto": 5 (ID PASADO COMO PARAMETRO)
+    }
